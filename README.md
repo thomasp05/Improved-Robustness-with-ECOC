@@ -1,4 +1,4 @@
-# Improved Robustness Against Adaptive Attacks with Ensembles and Error-Correcting Output Codes
+# Source code for the article "Improved Robustness Against Adaptive Attacks with Ensembles and Error-Correcting Output Codes"
 
 ## List of important files:
 
