@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# added by thomas 
+__pycache__/
+final_models.zip 
+
 # C extensions
 *.so
 
